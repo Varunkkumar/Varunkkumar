@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello! I am Varun, a Tech enthusiastic student of Velammal Engineering College, pursuing my major in the department of Electronics and Communication Engineering (ECE).<br><br>🔍 I am currently exploring the realms of electronics, information technology, website development, and digital systems. My vision is to use the latest technology to design innovative solutions and contribute to the continuously changing tech sector.<br><br>💬 Let's team up and make our ideas a reality! I'm always on the lookout for new projects, ideas, and learning/growth opportunities.<br><br>⚡ Fun fact: I'm a tech fanatic who enjoys trying out new gadgets and keeping on top of the latest trends in tech.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunkkumar&label=Profile%20views&color=0e75b6&style=flat" alt="varunkkumar" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/steb2685) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white)](https://gitlab.com/varunkausal2004) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=devdotto&logoColor=white)](https://dev.to/varun_k_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Varun-k-kumar2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Varunkausal2004@gmail.com) 

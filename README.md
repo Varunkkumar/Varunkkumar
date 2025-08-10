@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=ffffff&vCenter=true&width=1000&lines=Tech+Enthusiast;Passionate+DevOps+Engineer;Electronics+%26+Communication+Student)](https://github.com/VarunKKumar)                                                                                                                        
-
+https://varunkkumar.github.io/
 # 💫 About Me:
 👋 Hello! I am Varun, a Tech enthusiastic student of Velammal Engineering College, pursuing my major in the department of Electronics and Communication Engineering (ECE).<br><br>🔍 I am currently exploring the realms of electronics, information technology, website development, and digital systems. My vision is to use the latest technology to design innovative solutions and contribute to the continuously changing tech sector.<br><br>💬 Let's team up and make our ideas a reality! I'm always on the lookout for new projects, ideas, and learning/growth opportunities.<br><br>⚡ Fun fact: I'm a tech fanatic who enjoys trying out new gadgets and keeping on top of the latest trends in tech.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunkkumar&label=Profile%20views&color=0e75b6&style=flat" alt="varunkkumar" /> </p>

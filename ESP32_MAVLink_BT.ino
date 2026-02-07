@@ -9,6 +9,7 @@ const unsigned long connectionTimeout = 3000; // 3 seconds timeout
 void setup() {
   Serial.begin(57600);
   SerialBT.begin("ESP32_MAVLink_Check"); // Bluetooth device name
+  lastHeartbeatReceived = millis(); // Initialize to current time
 }
 
 void loop() {
@@ -22,7 +23,8 @@ void loop() {
   Serial.write(buf, len);
   
   // Check for incoming MAVLink messages to detect connection
-  while (Serial.available()) {
+  int bytesProcessed = 0;
+  while (Serial.available() && bytesProcessed < 100) {
     uint8_t c = Serial.read();
     mavlink_message_t rxMsg;
     mavlink_status_t status;
@@ -37,10 +39,11 @@ void loop() {
         SerialBT.println("ok ack received");
       }
     }
+    bytesProcessed++;
   }
   
   // Check if connection timed out
-  if (mavConnected && (millis() - lastHeartbeatReceived > connectionTimeout)) {
+  if (mavConnected && ((millis() - lastHeartbeatReceived) > connectionTimeout)) {
     mavConnected = false;
   }
   
